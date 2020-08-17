@@ -17,3 +17,7 @@ A command prompt with elevated privilege will appear without the UAC pop up.
 
 ### POC
 <a href="https://gifyu.com/image/c6GW"><img src="https://s7.gifyu.com/images/uac-bypass1.gif" alt="uac-bypass1.gif" border="0" /></a>
+<br/>
+<br/>
+
+**Reference**: https://www.wietzebeukema.nl/blog/hijacking-dlls-in-windows
